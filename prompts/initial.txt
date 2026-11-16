@@ -1,0 +1,12 @@
+You are generating JUnit 5 tests.
+
+Method under test (with class context):
+{source}
+
+Documented behavior: see the Javadoc contract in the source above.
+
+Write tests for normal inputs, boundary values, invalid inputs, and documented exceptions.
+Assert values from the documented behavior.
+Use only the APIs shown and JUnit 5 (org.junit.jupiter.api).
+The test class must be named {cls}Test, declared in package exp.
+Output ONLY one Java class inside <code></code> tags.

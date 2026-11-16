@@ -1,0 +1,6 @@
+not selected (hash order) RoundToMultiple
+not selected (hash order) Truncate
+not selected (hash order) DedupKeepOrder
+not selected (hash order) ValidIpv4
+not selected (hash order) IsLeapYear
+not selected (hash order) ParsePositiveInt

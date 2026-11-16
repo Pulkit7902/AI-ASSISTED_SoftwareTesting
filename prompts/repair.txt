@@ -1,0 +1,13 @@
+The tests below produced these diagnostics:
+{diagnostics}
+
+Current test class:
+<code>
+{suite}
+</code>
+
+Method under test:
+{source}
+
+Return a corrected full test class named {cls}Test in package exp, inside <code></code> tags.
+Keep every meaningful assertion; do not delete tests or weaken assertions just to make the suite pass.
